@@ -1,0 +1,16 @@
+# Environment files
+.env
+.env.*
+
+# Log files
+*.log
+
+# Node.js dependencies
+node_modules/
+
+# Terraform working directory
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
